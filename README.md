@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello there! I'm RAUL FERNANDEZ.
 
-<!--
-**Raul1508/Raul1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated researcher and engineer operating at the intersection of **Artificial Intelligence, Optimization, and Systems Engineering**. My expertise lies in architecting **hybrid intelligent frameworks** that combine machine learning, evolutionary algorithms, and natural language processing to automate and optimize complex design processes.
 
-Here are some ideas to get you started:
+### 🧠 Current Focus & Research
+- **LAYNEX Framework:** Use of NLP for generative warehouse layout design and 3D spatial optimization.
+- **Hybrid AI Models:** Building systems that integrate symbolic AI (constraint handling) with neural networks for more robust and interpretable automation.
+- **Greenfield Software Development:** Creating intelligent tools from the ground up, like the **Hybrid Intelligent System** project for warehouse management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Mission
+My long-term goal is to **lead and collaborate with visionary teams** to build foundational intelligent systems. I believe in creating AI that is not only powerful but also practical, accessible, and capable of solving real-world problems in logistics, supply chain, and beyond.
+
+*💡 Interested in intelligent systems, computational design, or AI research? I'm always open to discussing collaboration and new ideas.*
+
+**[🔗 LinkedIn](www.linkedin.com/in/raulfer-inde) | [📧 Email](raulfernandezpachas@gmail.com)**
