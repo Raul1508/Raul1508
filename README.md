@@ -12,7 +12,7 @@ My long-term goal is to **lead and collaborate with visionary teams** to build f
 
 *💡 Interested in intelligent systems, computational design, or AI research? I'm always open to discussing collaboration and new ideas.*
 
-**[🔗 LinkedIn](www.linkedin.com/in/raulfer-inde) | [📧 Email](raulfernandezpachas@gmail.com)**
+[🔗 LinkedIn](https://www.linkedin.com/in/raulfer-inde) | [📧 Email](mailto:raulfernandezpachas@gmail.com)
 
 <img width="2560" height="1600" alt="Layout view" src="https://github.com/user-attachments/assets/ab63b361-fe11-4739-97cd-82c458317928" />
 
