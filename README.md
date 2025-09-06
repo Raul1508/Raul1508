@@ -14,11 +14,9 @@ My long-term goal is to **lead and collaborate with visionary teams** to build f
 
 [🔗 LinkedIn](https://www.linkedin.com/in/raulfer-inde) | [📧 Email](mailto:raulfernandezpachas@gmail.com)
 
-## Click the badge above to experience the interactive 3D warehouse!
+# 🏭 3D Interactive Warehouse
 
-https://Raul1508.github.io/Raul1508/
-
-Or use this direct link: https://Raul1508.github.io/Raul1508/blob/main/index.html
+[![🌐 Interactive 3D Warehouse](https://img.shields.io/badge/🏭-Experience%203D%20Warehouse%20Demo-667eea?style=for-the-badge&logo=three.js&logoColor=white)](https://Raul1508.github.io/Raul1508/)
 
 <img width="2560" height="1600" alt="Layout view" src="https://github.com/user-attachments/assets/ab63b361-fe11-4739-97cd-82c458317928" />
 
