@@ -14,5 +14,7 @@ My long-term goal is to **lead and collaborate with visionary teams** to build f
 
 [🔗 LinkedIn](https://www.linkedin.com/in/raulfer-inde) | [📧 Email](mailto:raulfernandezpachas@gmail.com)
 
+[🔍 Explore the 3D Warehouse Layout](https://github.com/Raul1508/Raul1508/blob/main/warehouse_layout_2.html)
+
 <img width="2560" height="1600" alt="Layout view" src="https://github.com/user-attachments/assets/ab63b361-fe11-4739-97cd-82c458317928" />
 
