@@ -18,8 +18,7 @@ My long-term goal is to **lead and collaborate with visionary teams** to build f
 
 [![🚀 Launch 3D Demo](https://img.shields.io/badge/🌐-Launch%203D%20Interactive%20Demo-764ba2?style=for-the-badge&logo=webgl&logoColor=white)](https://Raul1508.github.io/Raul1508/)
 
-[![📊 Launch full 3D Demo](https://img.shields.io/badge/🔬-Interactive%203D%20Research%20Demo-2b6cb0?style=for-the-badge&logo=github&logoColor=white)](https://Raul1508.github.io/Raul1508/Layoutgreater.html/)
-
+[![📊 Launch full 3D Demo](https://img.shields.io/badge/🔬-Interactive%203D%20Research%20Demo-9f7aea?style=for-the-badge&logo=github&logoColor=white)](https://Raul1508.github.io/Raul1508/Layoutgreater.html)
 
 
 <img width="2560" height="1600" alt="Layout view" src="https://github.com/user-attachments/assets/ab63b361-fe11-4739-97cd-82c458317928" />
