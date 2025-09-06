@@ -18,10 +18,12 @@ My long-term goal is to **lead and collaborate with visionary teams** to build f
 
 <p align="center">
   <a href="https://Raul1508.github.io/Raul1508/">
-    <img src="https://img.shields.io/badge/🏭-Click%20for%203D%20Experience-667eea?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Demo" height="50">
+    <img src="https://img.shields.io/badge/🌐-Live%203D%20Demo-667eea?style=for-the-badge&logo=webgl&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="https://github.com/Raul1508/Raul1508">
+    <img src="https://img.shields.io/badge/📦-View%20Code-black?style=for-the-badge&logo=github&logoColor=white" alt="View Code">
   </a>
 </p>
-
 
 <img width="2560" height="1600" alt="Layout view" src="https://github.com/user-attachments/assets/ab63b361-fe11-4739-97cd-82c458317928" />
 
