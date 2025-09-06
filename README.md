@@ -16,7 +16,7 @@ My long-term goal is to **lead and collaborate with visionary teams** to build f
 
 # 🏭 3D Interactive Warehouse
 
-[![🚀 Launch 3D Demo](https://img.shields.io/badge/🌐-Launch%203D%20Interactive%20Demo-764ba2?style=for-the-badge&logo=webgl&logoColor=white)](https://Raul1508.github.io/Raul1508/)
+[![🎓 Tsinghua Research Demo](https://img.shields.io/badge/🎯-Tsinghua%20Research%203D%20Demo-c53030?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://Raul1508.github.io/Raul1508/)
 
 <img width="2560" height="1600" alt="Layout view" src="https://github.com/user-attachments/assets/ab63b361-fe11-4739-97cd-82c458317928" />
 
