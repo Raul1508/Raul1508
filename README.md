@@ -16,7 +16,7 @@ My long-term goal is to **lead and collaborate with visionary teams** to build f
 
 ## Click the badge above to experience the interactive 3D warehouse!
 
-Or use this direct link: (https://github.com/Raul1508/Raul1508/blob/main/index.html)
+Or use this direct link: https://Raul1508.github.io/Raul1508/blob/main/index.html
 
 <img width="2560" height="1600" alt="Layout view" src="https://github.com/user-attachments/assets/ab63b361-fe11-4739-97cd-82c458317928" />
 
