@@ -36,5 +36,9 @@ Published 📅 April 2025
 
 If you reference or build upon this work, please cite the above publication.
 
+🖼️ Image Use Notice  
+All photos and images in this repository are original work and © 2025 Raúl Eduardo Fernández Pachas.  
+They may not be reused or reproduced without explicit permission.
+
 For questions or collaboration, feel free to reach out: 📧 raulfernandezpachas@gmail.com
 
