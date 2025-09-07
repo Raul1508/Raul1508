@@ -1,0 +1,12 @@
+These materials represent a further development of the concepts introduced in the following early-stage publication:
+
+**“Automated Warehouse Layout Design: A Software Application”**  
+Published: April 2025  
+DOI: [10.13140/RG.2.2.33177.12642](https://doi.org/10.13140/RG.2.2.33177.12642)
+
+That publication may be referenced for foundational ideas and basic layout design approaches. However, the interactive components, HTML/JavaScript visualizations, and other content in this repository reflect ongoing work and more advanced features that have not yet been formally published.
+
+These materials are provided for academic and demonstration purposes only.  
+**No permission is granted to copy, modify, distribute, or reuse this content** without explicit written consent from the author.
+
+Contact: raulfernandezpachas@gmail.com
