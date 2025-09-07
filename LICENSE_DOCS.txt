@@ -10,16 +10,22 @@ You are free to:
 Under the following terms:
 - Attribution — You must give appropriate credit to the author.
 - NonCommercial — You may not use the material for commercial purposes.
-- No Premature Publication — Do not publish derivative work based on this material before the original author’s research is formally published.
+- No Premature Publication — Do not publish derivative work based on this material before the author's related research is formally published.
 
 License details: https://creativecommons.org/licenses/by-nc/4.0/
 
-Reference: This work is part of an ongoing research project:  
+📖 Citation:
+
+This repository contains materials that extend the work introduced in the following publication:
+
 **“Automated Warehouse Layout Design: A Software Application”**  
 Draft Version – April 2025  
 DOI: [10.13140/RG.2.2.33177.12642](https://doi.org/10.13140/RG.2.2.33177.12642)
 
-For permission requests or commercial use, contact:  
-📧 raulfernandezpachas@gmail.com
+That publication may be cited for foundational concepts and basic layout designs.  
+This repository includes further developments and advanced interactive components that remain unpublished.
+
+📧 For permission requests or commercial use, contact:  
+raulfernandezpachas@gmail.com
 
 (C) 2025 Raúl Eduardo Fernández Pachas / Anhui University of Technology
