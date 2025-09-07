@@ -25,10 +25,13 @@ My long-term goal is to **lead and collaborate with visionary teams** to build f
 
 <img width="2560" height="1600" alt="Layout view" src="https://github.com/user-attachments/assets/ab63b361-fe11-4739-97cd-82c458317928" />
 
+
+### 📄 Citation
+
 This repository includes research materials and interactive demos that extend the foundational work presented in my early-stage publication:
 
 “Automated Warehouse Layout Design: A Software Application”
-Published April 2025
+Published 📅 April 2025 
 📌 DOI: 10.13140/RG.2.2.33177.12642
 
 If you reference or build upon this work, please cite the above publication.
