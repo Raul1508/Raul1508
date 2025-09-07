@@ -1,6 +1,6 @@
 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-This documentation and related materials are licensed under the  
+This documentation and related non-code materials (text, research notes, diagrams) are licensed under the  
 Creative Commons Attribution-NonCommercial 4.0 International License.
 
 You are free to:
@@ -16,16 +16,16 @@ License details: https://creativecommons.org/licenses/by-nc/4.0/
 
 📖 Citation:
 
-This repository contains materials that extend the work introduced in the following publication:
+This repository extends the ideas introduced in the following publication:
 
 **“Automated Warehouse Layout Design: A Software Application”**  
-Draft Version – April 2025  
-DOI: [10.13140/RG.2.2.33177.12642](https://doi.org/10.13140/RG.2.2.33177.12642)
+Draft accepted – April 2025  
+DOI: https://doi.org/10.13140/RG.2.2.33177.12642
 
-That publication may be cited for foundational concepts and basic layout designs.  
-This repository includes further developments and advanced interactive components that remain unpublished.
+Please cite the above work when referencing foundational design concepts.
 
-📧 For permission requests or commercial use, contact:  
-raulfernandezpachas@gmail.com
+🔒 Note:  
+Photos, images, and all visual or interactive components in this repository are © 2025 Raúl Eduardo Fernández Pachas. All rights reserved.  
+They are **not** licensed under CC BY-NC and **may not be reused** without explicit written permission.
 
-(C) 2025 Raúl Eduardo Fernández Pachas / Anhui University of Technology
+📧 Contact: raulfernandezpachas@gmail.com
