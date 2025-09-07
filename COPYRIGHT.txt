@@ -1,12 +1,19 @@
-These materials represent a further development of the concepts introduced in the following early-stage publication:
+© 2025 Raúl Eduardo Fernández Pachas. All rights reserved.
+
+This repository includes interactive components, images, and unpublished source materials — including but not limited to HTML, JavaScript, 3D visualizations, and original illustrations or photographs — which represent a further development of my research work.
+
+These materials extend the concepts introduced in:
 
 **“Automated Warehouse Layout Design: A Software Application”**  
 Published: April 2025  
-DOI: [10.13140/RG.2.2.33177.12642](https://doi.org/10.13140/RG.2.2.33177.12642)
+DOI: https://doi.org/10.13140/RG.2.2.33177.12642
 
-That publication may be referenced for foundational ideas and basic layout design approaches. However, the interactive components, HTML/JavaScript visualizations, and other content in this repository reflect ongoing work and more advanced features that have not yet been formally published.
+That publication may be cited for foundational concepts and basic layout designs.  
+However, the content of this repository — including images — represents more advanced, unpublished work.
 
-These materials are provided for academic and demonstration purposes only.  
-**No permission is granted to copy, modify, distribute, or reuse this content** without explicit written consent from the author.
+These materials are provided for demonstration and academic purposes only.  
+**No permission is granted to copy, modify, distribute, or reuse any part of this content, including images, without explicit written consent from the author.**
 
-Contact: raulfernandezpachas@gmail.com
+For citations, please refer to the DOI above.  
+For permission requests, contact: raulfernandezpachas@gmail.com
+
