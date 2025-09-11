@@ -6,15 +6,18 @@ I'm a dedicated researcher and engineer operating at the intersection of **Artif
 - **LAYNEX Framework:** Use of NLP for generative warehouse layout design and 3D spatial optimization.
 - **Hybrid AI Models:** Building systems that integrate symbolic AI (constraint handling) with neural networks for more robust and interpretable automation.
 - **Greenfield Software Development:** Creating intelligent tools from the ground up, like the **Hybrid Intelligent System** project for warehouse management.
+- **Software Prototyping:** I develop intelligent software from the ground up, such as the Integrated Storage Allocation Framework (ISAF) for evaluating warehouse storage strategies.
 
 ### 🎯 My Mission
-My long-term goal is to **lead and collaborate with visionary teams** to build foundational intelligent systems. I believe in creating AI that is not only powerful but also practical, accessible, and capable of solving real-world problems in logistics, supply chain, and beyond.
+My long-term goal is to contribute to the next generation of intelligent logistics systems. I am passionate about creating AI that is not only theoretically advanced but also practical and capable of delivering tangible value in supply chain management.
 
-*💡 Interested in intelligent systems, computational design, or AI research? I'm always open to discussing collaboration and new ideas.*
+*💡 I am actively seeking PhD opportunities and collaborations to advance this research further. Contact me and reach me out at:*
 
 [🔗 LinkedIn](https://www.linkedin.com/in/raulfer-inde) | [📧 Email](mailto:raulfernandezpachas@gmail.com)
 
-# 🏭 3D Interactive Warehouse
+# 🏭 3D Interactive Research Demos
+
+This repository contains interactive demos and visualizations that support my research into warehouse optimization. These tools are developed to explore and validate the concepts behind my publications.
 
 [![🚀 Launch 3D Demo](https://img.shields.io/badge/🌐-Launch%203D%20Interactive%20Demo-764ba2?style=for-the-badge&logo=webgl&logoColor=white)](https://Raul1508.github.io/Raul1508/)
 
@@ -35,6 +38,13 @@ Published 📅 April 2025
 📌 DOI: 10.13140/RG.2.2.33177.12642
 
 If you reference or build upon this work, please cite the above publication.
+
+
+# ⚠️ Usage Notice
+
+Code: The source code in this repository is provided for academic and research purposes under the Academic Research Use License.
+
+Media: All images, diagrams, and 3D models are original works © 2025 Raúl Eduardo Fernández Pachas. They may not be reused or reproduced without explicit permission.
 
 🖼️ Image Use Notice  
 
