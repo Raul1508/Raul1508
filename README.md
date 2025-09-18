@@ -4,7 +4,7 @@ A curious developer and researcher exploring the fundamental principles of opera
 
 **Can we discover a more organic, integrated logic for how warehouses and supply chains function?**
 
-I develop computational prototypes and hybrid frameworks (using techniques like Genetic Algorithms and constraint optimization) as experimental tools to probe these questions, moving beyond siloed optimizations towards a holistic understanding of spatial and logistical interdependence.
+I develop computational prototypes and hybrid intelligent frameworks as experimental tools to probe these questions, moving beyond siloed optimizations towards a holistic understanding of spatial and logistical interdependence.
 
 ---
 
