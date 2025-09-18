@@ -59,7 +59,6 @@ I welcome discussions regarding PhD opportunities, research collaborations, or i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raulfer-inde)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out%20to%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulfernandezpachas@gmail.com)
-[![Research Video](https://img.shields.io/badge/🎥-Watch%20Research%20Overview-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/T5LTiGHL2Qg)
 
 ---
 
