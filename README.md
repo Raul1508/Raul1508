@@ -1,6 +1,27 @@
 # Hello there! I'm Raúl Fernández.
 
-A research engineer and developer pioneering the next generation of intelligent logistics systems. I operate at the intersection of **Artificial Intelligence, Operations Research, and Systems Engineering**, architecting hybrid frameworks that combine machine learning, evolutionary algorithms, and constraint optimization to solve complex spatial and logistical problems.
+A curious developer and researcher passionate about the fundamental nature of operational systems. My work sits at the intersection of **Artificial Intelligence, Operations Research, and Systems Engineering**, where I explore a simple, driving question: **Can we discover a more organic, integrated logic for how warehouses and supply chains function?**
+
+I develop hybrid frameworks—combining machine learning tecniques, and constraint optimization (heuristics) — not just as ends in themselves, but as experimental tools to probe these deeper questions. My goal is to move beyond siloed optimizations and towards a holistic understanding of spatial and logistical interdependence.
+
+---
+
+## 🧠 Research Focus & Exploring Big Questions
+
+My work is an ongoing exploration to bridge theoretical concepts with tangible applications. I build software prototypes to test hypotheses and visualize complex relationships that are often only described in theory.
+
+I am particularly fascinated by questions like:
+*   What does a **truly integrated design paradigm** look like, where layout, allocation, and operational logic co-evolve from the outset, rather than being optimized sequentially?
+*   How can we move from static, one-size-fits-all models to **adaptive, "living" systems** that can reorganize based on real-time flow and demand signals?
+*   Can we define a **unifying theoretical framework** that elegantly captures the complex trade-offs between space, time, energy, and resilience in logistics?
+
+My current projects, including generative layout algorithms and intelligent storage frameworks, are my first steps in experimenting with these ideas. They are a practical sandbox for exploring these more profound philosophical questions about operations.
+
+## 🎯 My Path Forward: Seeking Collaboration & Guidance
+
+I am actively seeking a **PhD position** to deepen this inquiry. I am not just looking for a program, but for a collaborative partnership with mentors who are also excited by these fundamental challenges. I want to contribute to foundational knowledge while ensuring the research has a clear pathway to real-world impact, potentially through future integration with enterprise ecosystems (ERP, WMS, SCaaS).
+
+> **For Researchers & Professors:** My work is a starting point for discussion, not a finished product. I have built interactive demos and drafted initial formulations to make these abstract concepts tangible. I would be thrilled to share my progress and hear your perspective on how we could explore these questions together.
 
 ---
 
