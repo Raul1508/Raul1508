@@ -52,7 +52,7 @@ I welcome discussions regarding PhD opportunities and research collaborations.
 
 This work extends the foundation presented in:
 > **“Automated Warehouse Layout Design: A Software Application”**  
-> 📅 April 2025 | 📌 DOI: [10.13140/RG.2.2.33177.12642](https://www.researchgate.net/publication/0000000000000000)
+> 📄 Conference Paper | 📅 April 2025 | 📌 DOI: [10.13140/RG.2.2.33177.12642](https://doi.org/10.13140/RG.2.2.33177.12642)
 
 ---
 
